@@ -2,7 +2,7 @@
 
 ### **Слика од CFG**
 
-`        `![](https://github.com/PapaMedo123/SI_lab2_196085/tree/master/Diagram/Graph.png)
+`        `![](https://github.com/PapaMedo123/SI_lab2_196085/blob/master/Diagram/Graph.png)
 
 ### **Цикломатската комплексност**
 
